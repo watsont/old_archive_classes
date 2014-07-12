@@ -1,0 +1,10 @@
+Customer: BettyBye
+Price:    20776.8
+Purchased:4/8/1988 Sold Date: 7/7/2007
+Sold to: John
+
+Customer: AliceAlas
+Price:    25305.5
+Purchased:6/6/1992 Sold Date: 8/8/2008
+Sold to: Cliff
+
